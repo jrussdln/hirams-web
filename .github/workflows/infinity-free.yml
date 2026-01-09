@@ -1,4 +1,4 @@
-name: 🚀 Deploy to hirams-teknokrat.fwh.is
+name: 🚀 Deploy to hirams.ct.ws 
 
 on:
   workflow_dispatch: # Uncomment below to deploy on push instead
@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    name: 🎉 Deploy to hirams-teknokrat.fwh.is
+    name: 🎉 Deploy to hirams.ct.ws 
     runs-on: ubuntu-latest
 
     steps:
